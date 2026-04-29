@@ -43,3 +43,6 @@ Support data-driven decision-making
 This project reflects my growing interest in Business Intelligence, Data Analysis, and Dashboard Development, with a focus on turning data into impactful decisions.
 
 -Dashboard
+-<a href="https://github.com/saniya-verma/Hospital-Emergency-Room/blob/main/Hospital%20Dashboard.jpeg">Dashboard View</a>
+
+
